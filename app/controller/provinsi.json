@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "nama": "DKI Jakarta",
+    "ibukota": "Jakarta Pusat"
+  },
+  {
+    "id": "2",
+    "nama": "Jawa Tengah",
+    "ibukota": "Semarang"
+  },
+  {
+    "id": "3",
+    "nama": "Jawa Timur",
+    "ibukota": "Surabaya"
+  },
+  {
+    "id": "4",
+    "nama": "DIY",
+    "ibukota": "Kota Jogjakarta"
+  },
+  {
+    "id": "5",
+    "nama": "Banten",
+    "ibukota": "Serang"
+  },
+  {
+    "id": "7",
+    "nama": "Sumatera Selatan",
+    "ibukota": "Palembang"
+  },
+  {
+    "id": "6",
+    "nama": "Sumatera Barat",
+    "ibukota": "Padang"
+  },
+  {
+    "id": "10",
+    "nama": "Madura",
+    "ibukota": "Bangkalan"
+  }
+]
